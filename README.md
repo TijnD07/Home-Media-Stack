@@ -25,11 +25,13 @@ De kracht van deze setup zit in de connectie tussen de verschillende platformen.
 3. **Download:** De download client download de file.
 4. **Stream:** De media-server werkt de bibliotheek bij en maakt de content gelijk beschikbaar.
 
-## 📸 Preview
+## 🧱 Systeem Overzicht
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-0081C9?style=for-the-badge&logo=Jellyfin&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57024?style=for-the-badge&logo=Proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
+
+## 📸 Preview
 
 ---
 *Ontwikkeld door Tijn - 2026*
