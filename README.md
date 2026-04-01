@@ -26,6 +26,6 @@ De kracht van deze setup zit in de connectie tussen de verschillende platformen.
 4. **Stream:** De media-server werkt de bibliotheek bij en maakt de content gelijk beschikbaar.
 
 ## 📸 Preview
-![Dashboard Preview](assets/media-hub.png)
+![Dashboard Preview](assets/media-hub1.png)
 ---
 *Ontwikkeld door Tijn - 2026*
